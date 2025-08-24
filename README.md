@@ -35,7 +35,7 @@ Việc phân tích và thiết kế hệ thống được thực hiện theo hư
 
 ## ⚙️ Công cụ sử dụng
 - **Ngôn ngữ mô hình hóa**: UML  
-- **Công cụ vẽ**: StarUML / Visual Paradigm / Draw.io  
+- **Công cụ vẽ**: astah UML
 
 ---
 
